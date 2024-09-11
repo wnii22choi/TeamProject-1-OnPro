@@ -1,0 +1,119 @@
+.userEL16092812 {
+ position: relative;
+}
+.userEL16092812 .carousel {
+ height: auto;
+}
+.userEL16092812 .bg-box {
+ position: absolute;
+ top: 0;
+ left: 0;
+ right: 0;
+ bottom: 0;
+ width: 100%;
+ height: 100%;
+ background-color: #2B2725;
+ opacity: 0.20;
+}
+.userEL16092812 .cl_caption {
+ font-weight: normal;
+ margin-top: 0;
+ margin-bottom: 0;
+ line-height: 1.5;
+ text-shadow: none;
+}
+.userEL16092812 .slide .carousel-caption {
+ top: 50%;
+ bottom: inherit;
+ -webkit-transform: translateY(-50%);
+ -moz-transform: translateY(-50%);
+ -ms-transform: translateY(-50%);
+ -o-transform: translateY(-50%);
+ transform: translateY(-50%);
+}
+.userEL16092812 .slide .item {
+ height: 320px;
+ background-color: #000000;
+}
+.userEL16092812 .slide .carousel-inner {
+ max-height: 100%;
+}
+.userEL16092812 .slide .carousel-inner .item.bg {
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.userEL16092812 .userEL16092812-bg1 {
+ background-image: url(//storage.googleapis.com/i.addblock.net/sample/showcase_61_1.jpg);
+}
+.userEL16092812 .userEL16092812-bg2 {
+ background-image: url(//storage.googleapis.com/i.addblock.net/sample/showcase_61_2.jpg);
+}
+.userEL16092812 .userEL16092812-bg3 {
+ background-image: url(//storage.googleapis.com/i.addblock.net/sample/showcase_61_3.jpg);
+}
+.userEL16092812 ol.carousel-indicators {
+ display: none;
+}
+.userEL16092812 .carousel-control {
+ position: absolute;
+ top: 50%;
+ width: 64px;
+ height: 64px;
+ border: none;
+ background-color: rgba(255,255,255,1);
+ border-radius: 50%;
+ -webkit-transform: translateY(-50%);
+ -moz-transform: translateY(-50%);
+ -ms-transform: translateY(-50%);
+ -o-transform: translateY(-50%);
+ transform: translateY(-50%);
+ display: inline-block;
+ text-align: center;
+ line-height: 64px;
+ opacity: 1;
+}
+.userEL16092812 .carousel-control.left {
+ left: 80px;
+}
+.userEL16092812 .carousel-control.right {
+ right: 80px;
+}
+.userEL16092812 .carousel-control.right, .userEL16092812 .carousel-control.left {
+ background-image: none;
+ text-shadow: none;
+}
+.userEL16092812 .carousel-control svg {
+ fill: rgba(0,0,0,1);
+ transform: translateY(2px);
+}
+@media only screen and (max-width :991px) {
+ .userEL16092812 .slide .item {
+  max-height: 280px;
+ }
+ .userEL16092812 .carousel-control {
+  line-height: 54px;
+  width: 54px;
+  height: 54px;
+ }
+ .userEL16092812 .carousel-control svg {
+  width: 14px;
+  height: 14px;
+  transform: translateY(0px);
+ }
+ .userEL16092812 .carousel-control.left {
+  left: 60px;
+ }
+ .userEL16092812 .carousel-control.right {
+  right: 60px;
+ }
+}
+@media only screen and (max-width: 767px) {
+ .userEL16092812 .slide .item {
+  max-height: 230px;
+ }
+ .userEL16092812 .carousel-control {
+  position: absolute;
+  display: none;
+ }
+}

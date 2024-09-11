@@ -1,0 +1,42 @@
+<div data-case="slideshow61" class="userEL16092812">
+  <div id="carousel-userEL16092812" class="carousel slide" data-ride="carousel-userEL16092812" data-interval="6000">
+
+   <ol class="carousel-indicators" data-nav="true">
+<li data-target="#carousel-userEL16092812" data-slide-to="0" class="active">1</li>
+    <li data-target="#carousel-userEL16092812" data-slide-to="1" class="">2</li><li data-target="#carousel-userEL16092812" data-slide-to="2" class="">1</li>
+</ol>
+
+   <div class="carousel-inner" data-loop="true">
+    <div class="item bg userEL16092812-bg1 active" data-attach="true" data-target=".userEL16092812-bg1">
+     <div class="bg-box" data-selector=".bg-box" data-obackground="true" data-title=""></div>
+     <div class="container">
+      <div class="carousel-caption">
+        <div class="cl_caption" data-edit="true" data-selector=".cl_caption"><div><span style="font-family: 'Nanum Barun Gothic'; color: rgb(255, 255, 255);" class="fsize50">"ONPREMISES"</span></div><div style="line-height:1;"><span style="font-family: 'Noto Sans KR', 'Nanum Gothic'; color: rgb(255, 255, 255);" class="fsize13"><br></span></div><div><div><span style="font-family: Lato; color: rgb(255, 255, 255);" class="fsize14">ONPREMISES 는 기업이나 조직이 자체적으로 데이터 센터나 서버를 보유하고 운영하는 방식을 의미합니다.&nbsp;</span></div><div><span style="font-family: Lato; color: rgb(255, 255, 255);" class="fsize14">우리 프로젝트에서는 이러한 전통적 방식과 현대 클라우드 기술을 융합하여 안정성과 확장성을 동시에 추구하는 것을 목표로 합니다.</span></div><div><span style="color: rgb(255, 255, 255); font-family: Lato;" class="fsize14">.</span></div></div></div>
+        </div>
+       </div>
+       </div>
+    <div class="item bg userEL16092812-bg2" data-attach="true" data-target=".userEL16092812-bg2">
+     <div class="bg-box" data-selector=".bg-box" data-obackground="true" data-title=""></div>
+     <div class="container">
+      <div class="carousel-caption">
+        <div class="cl_caption" data-edit="true" data-selector=".cl_caption"><div><span style="font-family: 'Nanum Barun Gothic'; color: rgb(255, 255, 255);" class="fsize50">"PROJECT"</span></div><div style="line-height:1;"><span style="font-family: 'Noto Sans KR', 'Nanum Gothic'; color: rgb(255, 255, 255);" class="fsize13"><br></span></div><div><div><span style="font-family: Lato; color: rgb(255, 255, 255);" class="fsize14">이 프로젝트는 클라우드 엔지니어 양성 교육을 목적으로 하며,&nbsp;</span></div><div><span style="font-family: Lato; color: rgb(255, 255, 255);" class="fsize14">교육을 통해 습득한기술과 아이디어를 적용하여&nbsp;</span></div><div><span style="font-family: Lato; color: rgb(255, 255, 255);" class="fsize14">자체적인 이커머스 웹서버망을구축했습니다.</span></div></div></div>
+      </div>
+     </div>
+    </div>
+    
+    <div class="item bg user_ADD1712371716005" data-attach="true" data-target=".user_ADD1712371716005">
+     <div class="bg-box" data-selector=".bg-box" data-obackground="true" data-title=""></div>
+     <div class="container">
+      <div class="carousel-caption">
+        <div class="cl_caption" data-edit="true" data-selector=".cl_caption" ><div><span style="font-family: 'Nanum Barun Gothic'; color: rgb(255, 255, 255);" class="fsize50">"ONPRO"</span></div><div id="isPasted"><span style="color: rgb(255, 255, 255);">"ONPREMISES ", "PROJECT" 두 가지 요소를 결합</span></div><div><span style="color: rgb(255, 255, 255);">팀명 "ONPRO"는 우리의 프로젝트를 대표하며,</span></div><div><span style="color: rgb(255, 255, 255);">&nbsp;현대 기술과 전통적인 방식을 통합하여 미래를 준비하고자 하는 우리의 의지를 상징합니다.</span></div></div>
+        </div>
+       </div>
+       </div></div>
+   
+   <a class="left carousel-control" href="#carousel-userEL16092812" data-slide="prev" data-svg="true" data-selector=".carousel-control(background-color)" data-title="배경" data-pntitle="arrow btn" data-num="1">
+<svg viewBox="0 0 18 18" width="18" height="18" data-svg="true" data-selector=".carousel-control svg" data-title="아이콘" data-num="0"><path d="M16 8.5H3.91l2.33-2.33-.7-.71-2.83 2.83L2 9l.71.71 2.83 2.83.7-.71L3.91 9.5H16z"></path></svg></a>
+   <a class="right carousel-control" href="#carousel-userEL16092812" data-slide="next">
+<svg viewBox="0 0 18 18" width="18" height="18"><path d="m16 9-.71-.71-2.83-2.83-.7.71 2.33 2.33H2v1h12.09l-2.33 2.33.7.71 2.83-2.83z"></path></svg></a>
+
+  </div>
+</div>
